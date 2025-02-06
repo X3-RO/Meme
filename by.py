@@ -480,43 +480,6 @@ def line():
     print('\x1b[1;32m ───────────────────────────────────────────────────────')
 
 
-def Subscription():
-    key1 = open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
-    clear()
-    logo()
-    r1 = str(urlopen('https://github.com/X3-RO/Meme/blob/main/Axlapp.txt').read())
-    if key1 in r1:
-        os.system('clear')
-        logo()
-        return None
-    os.system('clear')
-    logo()
-    print('\t \x1b[1;32m Please Get Approval First\x1b[1;37m ')
-    slp(1)
-    os.system('clear')
-    logo()
-    print('')
-    print(" \x1b[1;32m Alexander Grayson's RPW Cloning Tool [Black Market] \x1b[1;37m\n")
-    print(' \x1b[1;32m Note : THIS IS A PAID TOOL!   \x1b[1;37m')
-    print('')
-    print('  [ Mode of Payment : GCASH ] ')
-    print('')
-    print('  Your key is not Approved. ')
-    print('')
-    print('  Copy and Send Key To Alexander Grayson')
-    print('')
-    print('  Your Key : ' + ah + key1)
-    print('')
-    name = input('  Your Name : ')
-    print('')
-    lol = input('  Your Email : ')
-    print('')
-    input('  Press Enter To Send Key')
-    slp(3.5)
-    os.system('am start https://m.me/AlexanderGraysonRecovery.IAmLimitless')
-    Subscription()
-
-Subscription()
 
 def get_access_token_from_file(file_path):
     file = open(file_path, 'r')
