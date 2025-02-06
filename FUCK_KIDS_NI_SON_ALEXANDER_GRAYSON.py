@@ -2354,9 +2354,6 @@ def count_lines_in_files(*file_paths):
             print(f'\t\t{red}   Not Found!')
 
         print(None, None)  # To separate output lines
-
-# Example usage:
-count_lines_in_files('file1.txt', 'file2.txt', 'file3.txt', 'file4.txt')
         return None
 
 path_file1 = '/sdcard/.EXTRACT-TOKEN-FRA-ACCOUNT.txt'
