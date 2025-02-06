@@ -1005,10 +1005,7 @@ def axl1():
     if save_choice == '1':
     account_file = os.path.join(folder_path, "FRAACCOUNT.txt")
     extract_type = 'account'
-
 elif save_choice == '2':
-    # Add the code you want to execute when save_choice is '2'
-    account_file = os.path.join(folder_path, "OTHERACCOUNT.txt")  # Example
-    extract_type = 'other'  # Example
-
+    account_file = os.path.join(folder_path, "FRAACCOUNT2.txt")
+    extract_type = 'account2'
        
