@@ -480,55 +480,6 @@ def line():
     print('\x1b[1;32m ───────────────────────────────────────────────────────')
 
 
-def Subscription():
-    key1 = open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
-    clear()
-    logo()
-    r1 = str(urlopen('https://github.com/X3-RO/Meme/blob/main/key.txt').read())
-    if key1 in r1:
-        os.system('clear')
-        logo()
-        return None
-    os.system('clear')
-    logo()
-    print('\t \x1b[1;32m Please Get Approval First\x1b[1;37m ')
-    slp(1)
-    os.system('clear')
-    logo()
-    print('')
-    print(" \x1b[1;32m Alexander Grayson's RPW Cloning Tool [Black Market] \x1b[1;37m\n")
-    print(' \x1b[1;32m Note : THIS IS A PAID TOOL!   \x1b[1;37m')
-    print('')
-    print('  [ Mode of Payment : GCASH ] ')
-    print('')
-    print('  Your key is not Approved. ')
-    print('')
-    print('  Copy and Send Key To Alexander Grayson')
-    print('')
-    print('  Your Key : ' + ah + key1)
-    print('')
-    name = input('  Your Name : ')
-    print('')
-    lol = input('  Your Email : ')
-    print('')
-    input('  Press Enter To Send Key')
-    slp(3.5)
-    os.system('am start https://m.me/AlexanderGraysonRecovery.IAmLimitless')
-    Subscription()
-
-Subscription()
-
-def get_access_token_from_file(file_path):
-    file = open(file_path, 'r')
-    print(None, None)
-    return file.read().strip().split('\n')
-    if not None:
-        pass
-    return None
-    if FileNotFoundError:
-        print(f'''{red}  Start the tool first!''')
-        return None
-
 
 def convert_to_traodoisub(url):
     response = requests.post('https://id.traodoisub.com/api.php', data = {
@@ -2372,21 +2323,21 @@ def start_tool():
 
 
 def count_lines_in_files(*file_paths):
-    for i, file_path in enumerate(file_paths, start = 1):
-        file = open(file_path, 'r')
-        total_lines = file()
-        if i == 1:
-            print(f'''\t\t{blue}     FRA ACCOUNT {yellow}: {green}{total_lines}''')
-        if i == 2:
-            print(f'''\t\t{blue}     RPA ACCOUNT {yellow}: {green}{total_lines}''')
-        if i == 3:
-            print(f'''\t\t{blue}     FRA PAGES   {yellow}: {green}{total_lines}''')
-        if i == 4:
-            print(f'''\t\t{blue}     RPA PAGES   {yellow}: {green}{total_lines}''')
-        print(None, None)
-        if not sum:
-            pass
-        if FileNotFoundError:
+    for i, file_path in enumerate(file_paths, start=1):
+        try:
+            with open(file_path, 'r') as file:
+                total_lines = sum(1 for _ in file)  # Efficient way to count lines
+                
+            if i == 1:
+                print(f'''\t\t{blue}     FRA ACCOUNT {yellow}: {green}{total_lines}''')
+            elif i == 2:
+                print(f'''\t\t{blue}     RPA ACCOUNT {yellow}: {green}{total_lines}''')
+            elif i == 3:
+                print(f'''\t\t{blue}     FRA PAGES   {yellow}: {green}{total_lines}''')
+            elif i == 4:
+                print(f'''\t\t{blue}     RPA PAGES   {yellow}: {green}{total_lines}''')
+
+        except FileNotFoundError:
             print(f'''\t\t{red}   Not Found!''')
         return None
 
