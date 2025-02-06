@@ -2350,8 +2350,6 @@ def count_lines_in_files(*file_paths):
                 print()  # newline
         except FileNotFoundError:
             print(f'\t\tNot Found: {file_path}')
-
-count_lines_in_files(path_file1, path_file2, path_file3, path_file4)
         return None
 
 path_file1 = '/sdcard/.EXTRACT-TOKEN-FRA-ACCOUNT.txt'
