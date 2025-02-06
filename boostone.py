@@ -250,68 +250,7 @@ def get_user_location():
         return file_obj.readline().strip()
 # ────────────────[Approval]─────────────────
 
-user_id = str(os.geteuid())
-user_name = get_user_name()
-uuid = f"{user_id}BERSBOOATING{user_id}"
-key = f"{user_name}-KAREN-BOOST-{uuid}"
-
-def get_approval_data(url):
-    response = requests.get(url)
-    response.raise_for_status()
-    return response.text
-
-def approval():
-    clear()
-    try:
-        user_id = str(os.geteuid())
-        user_name = get_user_name()
-        uuid = f"{user_id}BERSBOOATING{user_id}"
-        key = f"{user_name}-KAREN-BOOST-{uuid}"
-
-        clear()
-        print("\033[1;37m [\u001b[36m•\033[1;37m] YOU NEED APPROVAL TO USE THIS TOOL   \033[1;37m")
-        print("\033[1;37m [\u001b[36m•\033[1;37m] I AIN'T RESPONSIBLE IF ANYTHING HAPPENS WHILE YOU TRY TO BYPASS.  \033[1;37m")
-        print(f"\033[1;37m [\u001b[36m•\033[1;37m] YOUR KEY :\u001b[36m {key}")
-        linex()
-
-        urls = [
-            "https://github.com/ALEXANDERAXLMONTREAL/06f27/blob/main/5.txt",
-            "https://github.com/ALEXANDERAXLMONTREAL/06f27/blob/main/6.txt",
-            "https://github.com/ALEXANDERAXLMONTREAL/06f27/blob/main/7.txt",
-            "https://github.com/ALEXANDERAXLMONTREAL/06f27/blob/main/8.txt"
-        ]
-        
-        key_found = False
-        for url in urls:
-            approval_data = get_approval_data(url)
-            
-            if key in approval_data:
-                key_found = True
-                break
-
-        if key_found:
-            print(f"\033[1;97m >> YOUR KEY HAS BEEN APPROVED!!!")
-            time.sleep(3)
-            return key
-        else:
-            print("\x1b[1;97m >> SEND IF YOU WANT TO PURCHASE! ")
-            time.sleep(0.1)
-            input(' >> CLICK ENTER TO SEND YOUR KEY ')
-            os.system('xdg-open https://www.facebook.com/AlexanderAxlMontreal.IAmLimitless')
-            time.sleep(1)
-            exit()
-    except requests.RequestException as e:
-        logging.error(f"UNABLE TO FETCH DATA FROM SERVER.")
-        return logging.error
-        print(f" >> UNABLE TO FETCH DATA FROM SERVER.")
-        time.sleep(2)
-        exit()
-    except Exception as e:
-        logging.error(f"AN UNEXPECTED ERROR OCCURRED.")
-        return logging.error
-        print(f" >> AN UNEXPECTED ERROR OCCURRED.")
-        time.sleep(2)
-        exit()
+#rmoved
 
 # ────────────────[Count line]─────────────────
 
