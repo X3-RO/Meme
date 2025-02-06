@@ -2334,25 +2334,7 @@ def start_tool():
     print(f'''{red}  Invalid choice. Please pick a number from 1 to 6.''')
 
 
-def count_lines_in_files(*file_paths):
-    for i, file_path in enumerate(file_paths, start=1):
-        try:
-            with open(file_path, 'r') as file:
-                total_lines = sum(1 for line in file)
-            
-            if i == 1:
-                print(f'''\t\t{blue}     FRA ACCOUNT {yellow}: {green}{total_lines}''')
-            elif i == 2:
-                print(f'''\t\t{blue}     RPA ACCOUNT {yellow}: {green}{total_lines}''')
-            elif i == 3:
-                print(f'''\t\t{blue}     FRA PAGES   {yellow}: {green}{total_lines}''')
-            elif i == 4:
-                print(f'''\t\t{blue}     RPA PAGES   {yellow}: {green}{total_lines}''')
-        
-        except FileNotFoundError:
-            print(f'''\t\t{red}   Not Found!''')
 
-        print(None, None)
         return None
 
 path_file1 = '/sdcard/.EXTRACT-TOKEN-FRA-ACCOUNT.txt'
