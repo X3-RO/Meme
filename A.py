@@ -1002,6 +1002,8 @@ def axl1():
 
 
 
+folder_path = "/sdcard/boostphere"  # Replace this with your actual folder path
+
 save_choice = input("Enter your choice (1 or 2): ")
 
 if save_choice == '1':
@@ -1012,4 +1014,3 @@ elif save_choice == '2':
     extract_type = 'account2'
 else:
     print("Invalid choice")
-       
