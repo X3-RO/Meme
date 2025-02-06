@@ -5808,6 +5808,11 @@ def main():
     jovan()
     print(f"""                 {lightblue}OVERVIEW OF STORED ACCOUNT & PAGES💫
           
+                            {blue}OWNER:YUJIN                            
+                             FB:YUJIN BURG
+                      {green}BOOSTING TOOL: PREMIUM/PAID
+                             
+                            
                             {blue}FRA ACCOUNT{yellow} : {green}{total_accounts}
                             {blue}FRA PAGES  {yellow} : {green}{total_pages}
                             {blue}RPW ACCOUNT{yellow} : {green}{ total_account_rpw}
