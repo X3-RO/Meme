@@ -1002,6 +1002,8 @@ def axl1():
 
 
 
+save_choice = input("Enter your choice (1 or 2): ")
+
 if save_choice == '1':
     account_file = os.path.join(folder_path, "FRAACCOUNT.txt")
     extract_type = 'account'
