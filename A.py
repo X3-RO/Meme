@@ -1002,10 +1002,12 @@ def axl1():
 
 
 
-    if save_choice == '1':
+if save_choice == '1':
     account_file = os.path.join(folder_path, "FRAACCOUNT.txt")
     extract_type = 'account'
 elif save_choice == '2':
     account_file = os.path.join(folder_path, "FRAACCOUNT2.txt")
     extract_type = 'account2'
+else:
+    print("Invalid choice")
        
