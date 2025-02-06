@@ -484,7 +484,7 @@ def Subscription():
     key1 = open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
     clear()
     logo()
-    r1 = str(urlopen('https://github.com/X3-RO/Meme/blob/main/key.txt').read())
+    r1 = str(urlopen('https://github.com/X3-RO/Meme/blob/main/Axlapp.txt').read())
     if key1 in r1:
         os.system('clear')
         logo()
