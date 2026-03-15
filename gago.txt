@@ -1,0 +1,26 @@
+{
+  "menu_title": "SYSTEM SELECT",
+  "systems": [
+    {
+      "name": "LOW END",
+      "status": "ONLINE",
+      "lib_name": "libtranquility.so",
+      "download_url": "https://antipanel.x10.mx/libni.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "MID RANGE",
+      "status": "ONLINE",
+      "lib_name": "libnize.so",
+      "download_url": "https://antipanel.x10.mx/antilib/libnize.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "HIGH END",
+      "status": "OFFLINE",
+      "lib_name": "libni+.so",
+      "download_url": "https://antipanel.x10.mx/antilib/libni+.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    }
+  ]
+}
