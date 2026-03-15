@@ -4,7 +4,7 @@
     {
       "name": "LOW END",
       "status": "ONLINE",
-      "lib_name": "libtranquility.so",
+      "lib_name": "libni.so",
       "download_url": "https://antipanel.x10.mx/libni.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
