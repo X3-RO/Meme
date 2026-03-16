@@ -1,3 +1,4 @@
+
 {
   "menu_title": "SYSTEM SELECT",
   "systems": [
@@ -20,6 +21,13 @@
       "status": "OFFLINE",
       "lib_name": "libni+.so",
       "download_url": "https://antipanel.x10.mx/antilib/libni+.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "RANDOM CRACK",
+      "status": "ONLINE",
+      "lib_name": "libnoy.so",
+      "download_url": "https://antipanel.x10.mx/antilib/libnoy.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
