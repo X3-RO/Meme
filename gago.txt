@@ -3,8 +3,8 @@
   "menu_title": "SYSTEM SELECT",
   "systems": [
     {
-      "name": "LOW END",
-      "status": "MAINTENANCE",
+      "name": "LOW END(50/50)",
+      "status": "ONLINE",
       "lib_name": "libni.so",
       "download_url": "https://antipanel.x10.mx/antilib/libni.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
