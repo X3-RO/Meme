@@ -4,7 +4,7 @@
   "systems": [
     {
       "name": "LOW END",
-      "status": "MAINTENANCE",
+      "status": "MAYBE NOT SAFE",
       "lib_name": "libni.so",
       "download_url": "https://antipanel.x10.mx/antilib/libni.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
