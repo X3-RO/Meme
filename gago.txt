@@ -4,14 +4,14 @@
   "systems": [
     {
       "name": "LOW END",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "lib_name": "libni.so",
       "download_url": "https://antipanel.x10.mx/antilib/libni.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
       "name": "MID RANGE",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "lib_name": "libnize.so",
       "download_url": "https://antipanel.x10.mx/antilib/libnize.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
