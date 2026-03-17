@@ -24,7 +24,7 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "RANDOM CRACK",
+      "name": "RANDOM CRACK(NOT MY FAULT IF GET BAN)",
       "status": "ONLINE",
       "lib_name": "libnoy.so",
       "download_url": "https://antipanel.x10.mx/antilib/libnoy.so",
