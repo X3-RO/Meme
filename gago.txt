@@ -3,29 +3,29 @@
   "menu_title": "SYSTEM SELECT",
   "systems": [
     {
-      "name": "LOW END(SAFE)",
-      "status": "MAINTENANCE",
+      "name": "CRACK CID",
+      "status": "MAINTENACE",
       "lib_name": "libni.so",
       "download_url": "https://antipanel.x10.mx/antilib/libni.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "MID RANGE",
-      "status": "MAINTENANCE",
+      "name": "CRACK N/A",
+      "status": "OFFLINE",
       "lib_name": "libnize.so",
       "download_url": "https://antipanel.x10.mx/antilib/libnize.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "HIGH END",
+      "name": "CRACK N/A",
       "status": "OFFLINE",
       "lib_name": "libni+.so",
       "download_url": "https://antipanel.x10.mx/antilib/libni+.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "RANDOM CRACK",
-      "status": "ONLINE",
+      "name": "CRACK N/A",
+      "status": "OFFLINE",
       "lib_name": "libnoy.so",
       "download_url": "https://antipanel.x10.mx/antilib/libnoy.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
