@@ -1,12 +1,11 @@
-
 {
   "menu_title": "SYSTEM SELECT",
   "systems": [
     {
       "name": "CRACK CID",
       "status": "ONLINE",
-      "lib_name": "libni.so",
-      "download_url": "https://antipanel.x10.mx/antilib/libni.so",
+      "lib_name": "libCRACK.so",
+      "download_url": "https://imezekiel.x10.mx/Farlight/libCRACK.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
@@ -23,6 +22,15 @@
       "download_url": "https://antipanel.x10.mx/antilib/libni+.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
+    {
+      "name": "CRACK N/A",
+      "status": "OFFLINE",
+      "lib_name": "libnoy.so",
+      "download_url": "https://antipanel.x10.mx/antilib/libnoy.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    }
+  ]
+}    },
     {
       "name": "CRACK N/A",
       "status": "OFFLINE",
