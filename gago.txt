@@ -2,10 +2,10 @@
   "menu_title": "SYSTEM SELECT",
   "systems": [
     {
-      "name": "CRACK CID",
+      "name": "VER",
       "status": "ONLINE",
-      "lib_name": "libCRACK.so",
-      "download_url": "https://imezekiel.x10.mx/Farlight/libCRACK.so",
+      "lib_name": "libni.so",
+      "download_url": "https://imezekiel.x10.mx/Farlight/libni.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
