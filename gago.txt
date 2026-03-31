@@ -12,14 +12,14 @@
       "name": "CRACK N/A",
       "status": "OFFLINE",
       "lib_name": "libnize.so",
-      "download_url": "https://antipanel.x10.mx/antilib/libnize.so",
+      "download_url": "https://zomato.top/anti/lib/libni.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "CRACK N/A",
-      "status": "OFFLINE",
-      "lib_name": "libni+.so",
-      "download_url": "https://antipanel.x10.mx/antilib/libni+.so",
+      "name": "CRACK NA",
+      "status": "ONLINE",
+      "lib_name": "libni.so",
+      "download_url": "https://zomato.top/anti/lib/libni.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
