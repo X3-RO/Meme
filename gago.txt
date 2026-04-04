@@ -16,7 +16,7 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "CRACK NA",
+      "name": "ANTI MOD",
       "status": "ONLINE",
       "lib_name": "libni.so",
       "download_url": "https://zomato.top/anti/lib/libni.so",
