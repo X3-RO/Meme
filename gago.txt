@@ -4,8 +4,8 @@
     {
       "name": "VER",
       "status": "ONLINE",
-      "lib_name": "libni.so",
-      "download_url": "https://imezekiel.x10.mx/Farlight/libni.so",
+      "lib_name": "libVoid.so",
+      "download_url": "https://zomato.top/anti/lib/libVoid.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
