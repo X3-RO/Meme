@@ -1,7 +1,8 @@
 {
   "NAME": "TEST",
-  "LIBNAME": "liVELD.so",
+  "LIBNAME": "libVELD.so",
   "LIBLINK": "https://zomato.top/anti/lib/libVELD.so",
   "LOGO": "https://raw.githubusercontent.com/X3-RO/Meme/refs/heads/main/22c36a0ad36e49625dc09bd33c74245e.jpg",
-  "TARGET": "com.tencent.tmgp.cod"
+  "TARGET_PKG": "com.garena.game.codm",
+  "TARGET_ACTIVITY": "com.tencent.tmgp.cod.CODMainActivity"
 }
