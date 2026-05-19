@@ -1,0 +1,7 @@
+{
+  "NAME": "TEST",
+  "LIBNAME": "liVELD.so",
+  "LIBLINK": "https://zomato.top/anti/lib/libVELD.so",
+  "LOGO": "https://raw.githubusercontent.com/YourName/YourRepo/main/logo.png",
+  "TARGET": "com.tencent.tmgp.cod"
+}
