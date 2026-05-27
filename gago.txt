@@ -2,15 +2,15 @@
   "menu_title": "SYSTEM SELECT",
   "systems": [
     {
-      "name": "VER",
+      "name": "seki personal",
       "status": "ONLINE",
-      "lib_name": "libVoid.so",
-      "download_url": "https://zomato.top/anti/lib/libVoid.so",
+      "lib_name": "libseki.so",
+      "download_url": "https://zomato.top/library/kupal/lib/libseki.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
       "name": "ANTI MOD",
-      "status": "ONLINE",
+      "status": "OFFLINE",
       "lib_name": "libni.so",
       "download_url": "https://zomato.top/anti/lib/libni.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
