@@ -1,35 +1,17 @@
 {
-  "menu_title": "SYSTEM SELECT",
   "systems": [
     {
-      "name": "seki personal",
+      "name": "CALL OF DUTY",
       "status": "ONLINE",
-      "lib_name": "libseki.so",
-      "download_url": "https://zomato.top/library/kupal/lib/libseki.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "ANTI MOD",
-      "status": "OFFLINE",
-      "lib_name": "libni.so",
-      "download_url": "https://zomato.top/anti/lib/libni.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "CRACK N/A",
-      "status": "OFFLINE",
-      "lib_name": "libnoy.so",
-      "download_url": "https://antipanel.x10.mx/antilib/libnoy.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    }
-  ]
-}    },
-    {
-      "name": "CRACK N/A",
-      "status": "OFFLINE",
-      "lib_name": "libnoy.so",
-      "download_url": "https://antipanel.x10.mx/antilib/libnoy.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
+      "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/4c91b95a589c61e4f0b9fc0302a0addd.jpg",
+      "libs": [
+        {
+          "name": "SEKI",
+          "lib_name": "libseki.so",
+          "download_url": "https://zomato.top/library/kupal/lib/libseki.so"
+        }
+      ]
     }
   ]
 }
