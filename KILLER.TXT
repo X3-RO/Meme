@@ -1,4 +1,4 @@
 {
-  "status": "KILL",
+  "status": "ONLINE",
   "message": "Server is up. Welcome to CIDHAX V4!"
 }
