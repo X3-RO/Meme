@@ -1,4 +1,4 @@
 {
   "status": "ONLINE",
-  "message": "Server is up. Welcome to CIDHAX V4!"
+  "message": "All systems operational."
 }
