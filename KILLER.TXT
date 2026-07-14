@@ -1,4 +1,1 @@
-{
-  "status": "ONLINE",
-  "message": "All systems operational."
-}
+0
