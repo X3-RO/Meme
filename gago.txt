@@ -8,10 +8,10 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "GHOST V5",
-      "status": "Maintenance",
-      "lib_name": "libGho.so",
-      "download_url": "https://antiprocbd.x10.mx/Farlight/libGho.so",
+      "name": "SWAG",
+      "status": "ONLINE",
+      "lib_name": "libSwag.so",
+      "download_url": "https://antiprocbd.x10.mx/Farlight/libSwag.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
