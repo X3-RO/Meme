@@ -1,24 +1,24 @@
 {
   "systems": [
     {
-      "name": "System A",
+      "name": "ASH",
       "status": "ONLINE",
-      "lib_name": "libhack1.so",
-      "download_url": "https://example.com/libhack1.so",
+      "lib_name": "libASH.so",
+      "download_url": "https://antiprocbd.x10.mx/Farlight/libASH.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "System B",
-      "status": "OFFLINE",
-      "lib_name": "libhack2.so",
-      "download_url": "https://example.com/libhack2.so",
+      "name": "GHOST",
+      "status": "ONLINE",
+      "lib_name": "libGho.so",
+      "download_url": "https://antiprocbd.x10.mx/Farlight/libGho.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "System C",
+      "name": "XYLO",
       "status": "MAINTENANCE",
-      "lib_name": "libhack3.so",
-      "download_url": "https://example.com/libhack3.so"
+      "lib_name": "libXY",
+      "download_url": "https://antiprocbd.x10.mx/Farlight/libXY.so"
     }
   ]
 }
