@@ -8,8 +8,8 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "GHOST",
-      "status": "ONLINE",
+      "name": "GHOST V5",
+      "status": "Maintenance",
       "lib_name": "libGho.so",
       "download_url": "https://antiprocbd.x10.mx/Farlight/libGho.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
@@ -18,7 +18,15 @@
       "name": "XYLO",
       "status": "ONLINE",
       "lib_name": "libXY.so",
-      "download_url": "https://antiprocbd.x10.mx/Farlight/libXY.so"
+      "download_url": "https://antiprocbd.x10.mx/Farlight/libXY.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "GHOST V4",
+      "status": "ONLINE",
+      "lib_name": "libGho.so",
+      "download_url": "https://antiprocbd.x10.mx/Farlight/libGho.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
 }
