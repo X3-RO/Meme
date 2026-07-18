@@ -8,8 +8,8 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "SWAG",
-      "status": "Maintenance",
+      "name": "GONHAX",
+      "status": "ONLINE",
       "lib_name": "libghax.so",
       "download_url": "https://antiprocbd.x10.mx/Farlight/libghax.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
