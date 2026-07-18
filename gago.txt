@@ -3,8 +3,8 @@
     {
       "name": "ASH",
       "status": "ONLINE",
-      "lib_name": "libASH.so",
-      "download_url": "https://antiprocbd.x10.mx/Farlight/libASH.so",
+      "lib_name": "libAsheszInternal.so",
+      "download_url": "https://antiprocbd.x10.mx/Farlight/libAsheszInternal.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
