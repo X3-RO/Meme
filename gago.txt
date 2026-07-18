@@ -1,17 +1,24 @@
 {
   "systems": [
     {
-      "name": "CALL OF DUTY",
+      "name": "System A",
       "status": "ONLINE",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
-      "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/4c91b95a589c61e4f0b9fc0302a0addd.jpg",
-      "libs": [
-        {
-          "name": "SEKI",
-          "lib_name": "libseki.so",
-          "download_url": "https://zomato.top/library/kupal/lib/libseki.so"
-        }
-      ]
+      "lib_name": "libhack1.so",
+      "download_url": "https://example.com/libhack1.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "System B",
+      "status": "OFFLINE",
+      "lib_name": "libhack2.so",
+      "download_url": "https://example.com/libhack2.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "System C",
+      "status": "MAINTENANCE",
+      "lib_name": "libhack3.so",
+      "download_url": "https://example.com/libhack3.so"
     }
   ]
 }
