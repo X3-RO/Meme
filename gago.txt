@@ -16,8 +16,8 @@
     },
     {
       "name": "XYLO",
-      "status": "MAINTENANCE",
-      "lib_name": "libXY",
+      "status": "ONLINE",
+      "lib_name": "libXY.so",
       "download_url": "https://antiprocbd.x10.mx/Farlight/libXY.so"
     }
   ]
