@@ -22,10 +22,10 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "GHOST V4",
+      "name": "GHOSTs V4",
       "status": "ONLINE",
-      "lib_name": "libGho.so",
-      "download_url": "https://antiprocbd.x10.mx/Farlight/libGho.so",
+      "lib_name": "ibGhosstExt.so",
+      "download_url": "https://antiprocbd.x10.mx/Farlight/libGhosstExt.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
