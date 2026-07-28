@@ -27,6 +27,20 @@
       "lib_name": "ibGhosstExt.so",
       "download_url": "https://antiprocbd.x10.mx/Farlight/libGhosstExt.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "VEINHAXV2",
+      "status": "ONLINE",
+      "lib_name": "libVan2.so",
+      "download_url": "https://antiprocbd.x10.mx/Farlight/libVan2.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "VEINHAXV3",
+      "status": "ONLINE",
+      "lib_name": "libVan3.so",
+      "download_url": "https://antiprocbd.x10.mx/Farlight/libVan3.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
 }
