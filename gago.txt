@@ -8,10 +8,10 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "GONHAX",
+      "name": "VEINHAX",
       "status": "ONLINE",
-      "lib_name": "libghax.so",
-      "download_url": "https://antiprocbd.x10.mx/Farlight/libghax.so",
+      "lib_name": "libgn.so",
+      "download_url": "https://antiprocbd.x10.mx/Farlight/libgn.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
